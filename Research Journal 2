@@ -1,0 +1,22 @@
+Data carpentry exercise 1 
+Examining the spread sheet (messy) it is easy to identify many obvious issues. Several words are misspelled.
+Data disappears into cells making it unreadable.
+The layout is illogical making it almost impossible to retrieve relevant data.
+Use of multiple tabs confuses computer systems. 
+Use of parentheses also confuses computers and should be avoided. 
+Single use of color to highlight data makes little sense to a human marker and none to a computer.
+Inconsistent use of designators and identifying numbers make it impossible to discern the data.
+It is organized in a highly illogical and inconsistent manner.
+Placement of tables also insane.
+Putting descriptions in cells.
+Using special characters in cells.
+Steps to be undertaken to rectify the issues:
+Open a new Excel spreadsheet and separate the data for Mozambique only.
+Create new column for “inc_barn” and removed the highlighted cell.
+Moved “plots” and “livestock” to separate but adjacent columns to the dwelling graph.
+Added four new separate columns for cows, goats, oxen and poultry.
+Create new columns for “water_use” and “water_use_summer_only”
+Issues: 
+The Vague nature of the data present problems in comprehending the meaning of the values. 
+Some data is contradictory 
+Results: The proposed changes seem to extract what useful data can be obtained from the spreadsheet. 
