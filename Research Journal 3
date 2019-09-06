@@ -1,0 +1,41 @@
+25/08/2019
+Continuing with the data-carpentry excersizes we move on to the third lesson, working with files and directories.
+I created a directory called Thesis using the mkdir command 
+I used nano to open up a text editor and create a file called draft.txt
+I attempted to rename draft.txt but was unable to
+I discovered that i was not in the right directory used cd to return to the top 
+I then used mv to rename draft.txt to quotes.txt
+I created a back for my thesis directory using the cp command 
+I attempted to use the rm command was unable to proceed
+I’m not sure how to proceed and will have to seek guidance in class
+Similar issues encountered with matching will seek guidance in class
+‘
+30/08/2019
+Attempting Lesson 4 Pipes and Filters
+Immediately encountered an issue where although data-shell has been correctly extracted to my desktop gitbash cannot locate it.
+Cannot proceed with commands as cannot access data-shell/molecules 
+Next excersize has also proven difficult. The > and >> command produce identical results for no discernable reason and the lesson doesn’t account for this possibility.
+TBC
+
+2/09/2019
+Attempting lesson 5 & 6
+Successfully created new file using nano called middle.sh
+Successfully saved said file 
+Could not locate the file once saved for the same reason as last time. Unknown error
+Successfully created commands to sort data within directory 
+I believe the issue is that for an unknown reason gitbash cannot see my data-shell files and therefore they are impossible access
+
+
+
+
+
+3/09/2019 
+ Attempting lesson 7
+Have come closer to understanding issue surrounding being unable to locate data-shell. I extracted the data-shell files to a folder called data-shell. Thus data-shell is inside data-shell and adding the extra folder has enabled me to locate the directory.
+However, despite having located the directory i am unable to access it for some reason that i still can’t understand. 
+Have attempted the lessons in a theoretic rather than practical capacity, not ideal but i think i am getting a handle on the command functions of gitbash. 
+Rather than simply bashing my head against a non-functioning interface i will once again seek help in class and in the mean time memorize the functions as they are listed in the lesson. 
+
+4/09/2019 
+Today i undertook my elaboration exercises. 
+I used the researching tools and OneDrive to discover and collate data for a recently completed project. I then used Excel to tabulate and cross-reference the relevant data about War Memorials. I experienced issues working with EndNote due to my unfamiliarity with the system but with the second test i was able to ameliorate those issues somewhat. I anticipate a great deal of utility using these programs in future with my research. 
