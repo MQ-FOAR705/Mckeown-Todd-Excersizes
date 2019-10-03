@@ -1,0 +1,151 @@
+Luke Mckeown-Todd FOAR 705 Learning Journal
+ 
+9/08/2019. 3.30 pm 
+As a part of missed homework due to my absence week one I attempted to access an old back up. I use OneDrive for my backups as my primary program is just word. It was not at all difficult because it’s stored chronologically and i follow an odd but simple to me naming structure. 
+Objective: To restore an old story draft i wrote a year ago
+Actions:
+•	Open Microsoft Word
+•	Select open 
+•	Select files stored on OneDrive 
+•	Search the archive of old documents 
+•	Open the old draft
+Errors or Issues: None
+Result: Successfully accessed my old draft dated 25/03/2018
+ 
+13/08/2019 12.05pm 
+  
+This is my second attempt at tackling the data carpentry exercise. I did not document my first attempt as it was before I fully understood what to do and how to do it. 
+Objective: To examine and propose corrections to a messy spreadsheet.
+Data carpentry exercise 1 
+•	Examining the spread sheet (messy) it is easy to identify many obvious issues. Several words are misspelled.
+•	Data disappears into cells making it unreadable.
+•	The layout is illogical making it almost impossible to retrieve relevant data.
+•	Use of multiple tabs confuses computer systems. 
+•	Use of parentheses also confuses computers and should be avoided. 
+•	Single use of color to highlight data makes little sense to a human marker and none to a computer.
+•	Inconsistent use of designators and identifying numbers make it impossible to discern the data.
+•	It is organized in a highly illogical and inconsistent manner.
+•	Placement of tables also insane.
+•	Putting descriptions in cells.
+•	Using special characters in cells.
+Steps to be undertaken to rectify the issues:
+•	Open a new Excel spreadsheet and separate the data for Mozambique only.
+•	Create new column for “inc_barn” and removed the highlighted cell.
+•	Moved “plots” and “livestock” to separate but adjacent columns to the dwelling graph.
+•	Added four new separate columns for cows, goats, oxen and poultry.
+•	Create new columns for “water_use” and “water_use_summer_only”
+Issues: 
+•	The Vague nature of the data present problems in comprehending the meaning of the values. 
+•	Some data is contradictory 
+Results: The proposed changes seem to extract what useful data can be obtained from the spreadsheet. 
+ 
+
+
+16/08/2019 2.00pm
+ 
+Metadata 
+In my best estimation the most relevant metadata that should be recorded during the collection of this data is:
+•	The kinds of questions being asked during the interviews and the manner in which they are being asked. 
+•	Correct and accurate definitions of the data being assigned to the table 
+•	Strict categories of what kinds of data is allowed in each column
+ 
+Additionally, i have engaged with the exercise in identifying problem data produced in my own field IE Modern History. More specially in regard to my potential thesis. 
+The discovery and cataloguing of Norse and/or Viking grave contents has been plagued with logical errors specifically in regard to the sexing of bodies discovered. It was assumed by those that discovered the graves that any bodies discovered with weapons interred are very likely to be warriors. Due to their own cultural restrictions they assumed that warrior meant male and therefore all discovered warriors were male. A perfect logical loop that created the very evidence it was searching for. Since then painstaking re-examination of some of these graves has revealed that at least a percentage of the bodies were female. This has created much controversy that i won’t get into now but safe to say that the proponents of this incorrect data collection are still trying to support their position. The new logic is that even if those female graves with weapons are determined to be warriors; which they very much resist then they are a tiny percentage. However, as the vast majority of cataloged graves were done using the old system and very few have been reexamined then it is still incorrect. A new, better method of cataloging the graves must be implemented. 
+
+18/08/2019
+
+Scoping Exercise 1
+
+Individually I attempted and completed the first scoping exercise wherein I identified in the broad strokes the issues that I have had previously in my research career as well as some methods I have heard about to overcome them.  I also stated my goals on what I was hoping to get out of this course.
+
+
+20/08/2019
+Scoping Exercise 2 
+In this piece I honed the specifics of my scoping exercise. Breaking it down into computational segments and laying it out succinctly. 
+
+23/08/2019
+
+I installed git bash and the shell and ran the opened it. I put in the first command 1s and received an error notification, this was due to the fact that despite the symbol being identical to a 1 it was in fact an l. Once the change was made the command worked as intended. 
+The second exercise asked me to input pwd to print working directory. This was accomplished without incident. I was then asked to re-input the ls command which was this time input without issue. The next command was to input -f, this resulted in the command not found prompt again. Help was sought. The error was an incomplete line of code because the command required ls to be input before -f. Once corrected it worked as intended. 
+The lesson then proceeded to input the command ls --help which brought up the various ways in which the command lines can be deployed in the shell. 
+
+25/08/2019
+Continuing with the data-carpentry excersizes we move on to the third lesson, working with files and directories.
+•	I created a directory called Thesis using the mkdir command 
+•	I used nano to open up a text editor and create a file called draft.txt
+•	I attempted to rename draft.txt but was unable to
+•	I discovered that i was not in the right directory used cd to return to the top 
+•	I then used mv to rename draft.txt to quotes.txt
+•	I created a back for my thesis directory using the cp command 
+•	I attempted to use the rm command was unable to proceed
+•	I’m not sure how to proceed and will have to seek guidance in class
+•	Similar issues encountered with matching will seek guidance in class
+‘
+30/08/2019
+Attempting Lesson 4 Pipes and Filters
+•	Immediately encountered an issue where although data-shell has been correctly extracted to my desktop gitbash cannot locate it.
+•	Cannot proceed with commands as cannot access data-shell/molecules 
+•	Next excersize has also proven difficult. The > and >> command produce identical results for no discernable reason and the lesson doesn’t account for this possibility.
+•	TBC
+ 
+2/09/2019
+Attempting lesson 5 & 6
+•	Successfully created new file using nano called middle.sh
+•	Successfully saved said file 
+•	Could not locate the file once saved for the same reason as last time. Unknown error
+•	Successfully created commands to sort data within directory 
+•	I believe the issue is that for an unknown reason gitbash cannot see my data-shell files and therefore they are impossible access
+ 
+ 
+ 
+ 
+ 
+3/09/2019 
+Attempting lesson 7
+•	Have come closer to understanding issue surrounding being unable to locate data-shell. I extracted the data-shell files to a folder called data-shell. Thus data-shell is inside data-shell and adding the extra folder has enabled me to locate the directory.
+•	However, despite having located the directory i am unable to access it for some reason that i still can’t understand. 
+•	Have attempted the lessons in a theoretic rather than practical capacity, not ideal but i think i am getting a handle on the command functions of gitbash. 
+•	Rather than simply bashing my head against a non-functioning interface i will once again seek help in class and in the mean time memorize the functions as they are listed in the lesson. 
+ 
+4/09/2019 
+Today i undertook my elaboration exercises. 
+I used the researching tools and OneDrive to discover and collate data for a recently completed project. I then used Excel to tabulate and cross-reference the relevant data about War Memorials. I experienced issues working with EndNote due to my unfamiliarity with the system but with the second test i was able to ameliorate those issues somewhat. I anticipate a great deal of utility using these programs in future with my research. 
+
+
+
+
+
+06/09/2019
+Today I attempted the first of the OpenRefine lessons. 
+•	Used facets to determine the number of interview dates 
+•	Used the transform feature to convert the column to dates
+•	Had some issues clustering data but upon revision of text problems were solved
+•	Use the open refine command prompts to remove undesired notation from data (value.replace)
+•	Using Undo/Redo was pretty straightforward, no issues encountered 
+
+14/09/2019
+Attempting lesson 3 (the second excersize) of the Open Refine Data Carpentry
+•	Using a text filter I selected out the desired “mabat” result from the data
+•	I was able to further narrow the selected data by removing one of the two different kinds of roofs 
+•	This was done with the Exclude/Include function
+•	Using the sort function we arranged the gps data by value. The instructors informed us that a return value of zero is generally an indicator of a gps error and to judge it against the other returned values. 
+•	By moving the data around we are able to shift desired data into adjacent columns thus easing its reading.
+
+
+20/09/2019
+Attempting lessons 4 & 5 of the Open Refine Data Carpentry
+•	Transformed columns by number with changes them to numeric values and highlights them by right aligning them and colouring them green.
+•	This process only works on data containing numbers however.
+•	Messed around with non-numeric values in my sorted number columns discovering that its possible to sort out non-numerals into a wide array of possible categories such as errors, non-numeric and blank
+•	I extracted the coding that Open Refine used as to process my inputs and saved it as a TXT file thus allowing me to easily recreate the operations. 
+•	Creating a new project I did just that, copy and pasting the txt into the input section and deriving the same operation as previously attempted. 
+•	I have to say this proximity to raw code makes me nervous, I cannot code to save my life. 
+
+
+25/09/2019
+Attempting lessons 6&7 of the Open Refine Data Carpentry 
+•	Learnt that my data is saved continuously, useful
+•	Exporting a project proved a little difficult simply because the file was saved in a format I hadn’t seen before. WinZip was however perfectly capable of opening and extracting the files therein.
+•	This folder contained a compressed history of txt files detailing the operations of the project. 
+•	The exported projects can be narrowed to only include cleaned data through the use of filters and sorting. 
+•	Learnt about some of the other applications of Open 
