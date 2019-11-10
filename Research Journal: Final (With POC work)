@@ -1,0 +1,354 @@
+Luke Mckeown-Todd FOAR 705 Learning Journal
+ 
+9/08/2019. 3.30 pm 
+As a part of missed homework due to my absence week one I attempted to access an old back up. I use OneDrive for my backups as my primary program is just word. It was not at all difficult because it’s stored chronologically and i follow an odd but simple to me naming structure. 
+Objective: To restore an old story draft i wrote a year ago
+Actions:
+•	Open Microsoft Word
+•	Select open 
+•	Select files stored on OneDrive 
+•	Search the archive of old documents 
+•	Open the old draft
+Errors or Issues: None
+Result: Successfully accessed my old draft dated 25/03/2018
+ 
+13/08/2019 12.05pm 
+  
+This is my second attempt at tackling the data carpentry exercise. I did not document my first attempt as it was before I fully understood what to do and how to do it. 
+Objective: To examine and propose corrections to a messy spreadsheet.
+Data carpentry exercise 1 
+•	Examining the spread sheet (messy) it is easy to identify many obvious issues. Several words are misspelled.
+•	Data disappears into cells making it unreadable.
+•	The layout is illogical making it almost impossible to retrieve relevant data.
+•	Use of multiple tabs confuses computer systems. 
+•	Use of parentheses also confuses computers and should be avoided. 
+•	Single use of color to highlight data makes little sense to a human marker and none to a computer.
+•	Inconsistent use of designators and identifying numbers make it impossible to discern the data.
+•	It is organized in a highly illogical and inconsistent manner.
+•	Placement of tables also insane.
+•	Putting descriptions in cells.
+•	Using special characters in cells.
+Steps to be undertaken to rectify the issues:
+•	Open a new Excel spreadsheet and separate the data for Mozambique only.
+•	Create new column for “inc_barn” and removed the highlighted cell.
+•	Moved “plots” and “livestock” to separate but adjacent columns to the dwelling graph.
+•	Added four new separate columns for cows, goats, oxen and poultry.
+•	Create new columns for “water_use” and “water_use_summer_only”
+Issues: 
+•	The Vague nature of the data present problems in comprehending the meaning of the values. 
+•	Some data is contradictory 
+Results: The proposed changes seem to extract what useful data can be obtained from the spreadsheet. 
+ 
+
+
+16/08/2019 2.00pm
+ 
+Metadata 
+In my best estimation the most relevant metadata that should be recorded during the collection of this data is:
+•	The kinds of questions being asked during the interviews and the manner in which they are being asked. 
+•	Correct and accurate definitions of the data being assigned to the table 
+•	Strict categories of what kinds of data is allowed in each column
+ 
+Additionally, i have engaged with the exercise in identifying problem data produced in my own field IE Modern History. More specially in regard to my potential thesis. 
+The discovery and cataloguing of Norse and/or Viking grave contents has been plagued with logical errors specifically in regard to the sexing of bodies discovered. It was assumed by those that discovered the graves that any bodies discovered with weapons interred are very likely to be warriors. Due to their own cultural restrictions they assumed that warrior meant male and therefore all discovered warriors were male. A perfect logical loop that created the very evidence it was searching for. Since then painstaking re-examination of some of these graves has revealed that at least a percentage of the bodies were female. This has created much controversy that i won’t get into now but safe to say that the proponents of this incorrect data collection are still trying to support their position. The new logic is that even if those female graves with weapons are determined to be warriors; which they very much resist then they are a tiny percentage. However, as the vast majority of cataloged graves were done using the old system and very few have been reexamined then it is still incorrect. A new, better method of cataloging the graves must be implemented. 
+
+18/08/2019
+
+Scoping Exercise 1
+
+Individually I attempted and completed the first scoping exercise wherein I identified in the broad strokes the issues that I have had previously in my research career as well as some methods I have heard about to overcome them.  I also stated my goals on what I was hoping to get out of this course.
+
+
+20/08/2019
+Scoping Exercise 2 
+In this piece I honed the specifics of my scoping exercise. Breaking it down into computational segments and laying it out succinctly. 
+
+23/08/2019
+
+I installed git bash and the shell and ran the opened it. I put in the first command 1s and received an error notification, this was due to the fact that despite the symbol being identical to a 1 it was in fact an l. Once the change was made the command worked as intended. 
+The second exercise asked me to input pwd to print working directory. This was accomplished without incident. I was then asked to re-input the ls command which was this time input without issue. The next command was to input -f, this resulted in the command not found prompt again. Help was sought. The error was an incomplete line of code because the command required ls to be input before -f. Once corrected it worked as intended. 
+The lesson then proceeded to input the command ls --help which brought up the various ways in which the command lines can be deployed in the shell. 
+
+25/08/2019
+Continuing with the data-carpentry excersizes we move on to the third lesson, working with files and directories.
+•	I created a directory called Thesis using the mkdir command 
+•	I used nano to open up a text editor and create a file called draft.txt
+•	I attempted to rename draft.txt but was unable to
+•	I discovered that i was not in the right directory used cd to return to the top 
+•	I then used mv to rename draft.txt to quotes.txt
+•	I created a back for my thesis directory using the cp command 
+•	I attempted to use the rm command was unable to proceed
+•	I’m not sure how to proceed and will have to seek guidance in class
+•	Similar issues encountered with matching will seek guidance in class
+‘
+30/08/2019
+Attempting Lesson 4 Pipes and Filters
+•	Immediately encountered an issue where although data-shell has been correctly extracted to my desktop gitbash cannot locate it.
+•	Cannot proceed with commands as cannot access data-shell/molecules 
+•	Next excersize has also proven difficult. The > and >> command produce identical results for no discernable reason and the lesson doesn’t account for this possibility.
+•	TBC
+ 
+2/09/2019
+Attempting lesson 5 & 6
+•	Successfully created new file using nano called middle.sh
+•	Successfully saved said file 
+•	Could not locate the file once saved for the same reason as last time. Unknown error
+•	Successfully created commands to sort data within directory 
+•	I believe the issue is that for an unknown reason gitbash cannot see my data-shell files and therefore they are impossible access
+ 
+ 
+ 
+ 
+ 
+3/09/2019 
+Attempting lesson 7
+•	Have come closer to understanding issue surrounding being unable to locate data-shell. I extracted the data-shell files to a folder called data-shell. Thus data-shell is inside data-shell and adding the extra folder has enabled me to locate the directory.
+•	However, despite having located the directory i am unable to access it for some reason that i still can’t understand. 
+•	Have attempted the lessons in a theoretic rather than practical capacity, not ideal but i think i am getting a handle on the command functions of gitbash. 
+•	Rather than simply bashing my head against a non-functioning interface i will once again seek help in class and in the mean time memorize the functions as they are listed in the lesson. 
+ 
+4/09/2019 
+Today i undertook my elaboration exercises. 
+I used the researching tools and OneDrive to discover and collate data for a recently completed project. I then used Excel to tabulate and cross-reference the relevant data about War Memorials. I experienced issues working with EndNote due to my unfamiliarity with the system but with the second test i was able to ameliorate those issues somewhat. I anticipate a great deal of utility using these programs in future with my research. 
+
+
+
+
+
+06/09/2019
+Today I attempted the first of the OpenRefine lessons. 
+•	Used facets to determine the number of interview dates 
+•	Used the transform feature to convert the column to dates
+•	Had some issues clustering data but upon revision of text problems were solved
+•	Use the open refine command prompts to remove undesired notation from data (value.replace)
+•	Using Undo/Redo was pretty straightforward, no issues encountered 
+
+14/09/2019
+Attempting lesson 3 (the second excersize) of the Open Refine Data Carpentry
+•	Using a text filter I selected out the desired “mabat” result from the data
+•	I was able to further narrow the selected data by removing one of the two different kinds of roofs 
+•	This was done with the Exclude/Include function
+•	Using the sort function we arranged the gps data by value. The instructors informed us that a return value of zero is generally an indicator of a gps error and to judge it against the other returned values. 
+•	By moving the data around we are able to shift desired data into adjacent columns thus easing its reading.
+
+
+20/09/2019
+Attempting lessons 4 & 5 of the Open Refine Data Carpentry
+•	Transformed columns by number with changes them to numeric values and highlights them by right aligning them and colouring them green.
+•	This process only works on data containing numbers however.
+•	Messed around with non-numeric values in my sorted number columns discovering that its possible to sort out non-numerals into a wide array of possible categories such as errors, non-numeric and blank
+•	I extracted the coding that Open Refine used as to process my inputs and saved it as a TXT file thus allowing me to easily recreate the operations. 
+•	Creating a new project I did just that, copy and pasting the txt into the input section and deriving the same operation as previously attempted. 
+•	I have to say this proximity to raw code makes me nervous, I cannot code to save my life. 
+
+
+25/09/2019
+Attempting lessons 6&7 of the Open Refine Data Carpentry 
+•	Learnt that my data is saved continuously, useful
+•	Exporting a project proved a little difficult simply because the file was saved in a format I hadn’t seen before. WinZip was however perfectly capable of opening and extracting the files therein.
+•	This folder contained a compressed history of txt files detailing the operations of the project. 
+•	The exported projects can be narrowed to only include cleaned data through the use of filters and sorting. 
+•	Learnt about some of the other applications of Open Refine such as Wiki formatting. 
+
+
+1/10/2019
+
+Installing and lesson 1 of R data carpentry 
+
+•	Created a new directory and new file 
+•	Some Initial confusion as to the location of the console but found it in the end
+•	Successfully downloaded and installed the tidyverse package with no further issues. 
+
+3/10/2019
+
+Attempting lesson 2 of R data carpentry 
+
+•	Learnt how to use the console to do maths and assign values to phrases and icons, also downloaded lintr for future code checking
+•	Completed a series of increasingly complex value changes involving area_hectares and area_acres. All completed successfully with no issues 
+•	Leant the use of functions like round, implemented and tests number of these simply programs successfully
+•	Finished conditional subsetting 
+•	With a few errors mainly relating to simple typos the rest of the activity was completed successfully and I learnt how to omit data.
+
+8/10/2019
+
+Attempting lesson 3 of R data carpentry 
+•	Learnt a great deal about data frames, manipulating data further 
+•	Factors present a greater difficulty for me because of a complete lack of mathematical ability on my part. I can follow instructions but have no confidence in independent work in this area.
+•	Formatting dates was relatively simple after factors. 
+•	As with all programming however I have absolutely no confidence in my ability. I am not a programmer, I have no background in programming and my inability to do maths of any kind. So many regrets. 
+
+13/10/2019
+
+I have begun work on my POC with great, great difficulty. My feedback on my preliminary work indicated that I have absolutely no idea what I’m doing. Starting again from scratch, working out a pipeline. I’m thinking some sort of textual analysis program. So it would go assemble sources, run program to extract data, sort data then extract as a usable table or graph. 
+No-one will read this anyway, so it doesn’t matter if I’m honest, none of this is helpful to me. Literally everything makes my work more complicated not less. Like fundamentally I don’t understand the point of any of this. I look up sources online or in person, I read them and take notes in word. Then I write the essay copy and pasting references where needed. That is the entirety of my research process. Step one look up source, step two read source, step three write essay. This course is like why not add 5 extra steps that require you to become proficient at three different programs and two different programming languages. Or I could not do that and KISS (keep it simple stupid). Honestly, even the presentation is a headache. Hey guys you know how everyone from school kids all the way up to CEOs uses powerpoint to deliver presentations? Well we think that’s boring and lame so here’s an entirely new way to deliver presentations that is functionally identical and a thousand times more complicated. WHY!? This mostly my fault though, rather than have this explained to me I tried and failed to make sense of it myself. I will probably fail this course and I deserve to. 
+
+
+14/10/2019 
+
+Well I feel a little better since yesterday, I considered deleting the entry but no if you guys want an honest chronicle of my thoughts then it should stay. 
+Going to be attempting R data carpentry 4 today
+•	Using dplyr and tidyr I learnt about filtering columns and rws as wells as deploying pipes from packages 
+•	Mutuation is a useful tool when adding new columns to existing datasets. No issues in deployment 
+•	The ability to clean sort and categorize the data could prove very useful  
+
+17/10/2019
+
+Attempting final R data carpentry 
+
+•	GGplot2 is an interesting and useful program. Its implementation however is a little tricker. After a few issues mainly with setting up my folders incorrectly I proceeded with a little difficulty. 
+•	Completed the scatterplot exercise encountering few errors but they were mainly typos and not cognitive ones
+•	Boxplots and barplot were much the same although I had some additional trouble understanding the syntax of the boxplot code. 
+•	It all came together with the labels and customization. Its nice to see myself implement something from start to finish and have something to show for it. The only problem is the bigger problem I have in general. I feel as though I’m not actually learning this stuff, I can follow the instructions well enough and even feel a little comfortable troubleshooting so long as the issues are mostly typos or syntax errors. But if you just gave me some data with the instruction to create a scatterplot in Rstuido without detailed, step-by-step instructions I have no confidence in my ability to replicate the task. If this was all we were learning from week 1 then maybe but R just gets lost in the shuffle as I’m trying to remember how to use gitbash or openrefine. 
+
+
+
+20/10/2019 
+
+I have come to a decision today. Although I know its not really what you are looking for I’m going to stick to my original plan with a few tweaks. I am going to create a pipeline for assembling a bibliography using Zotero combined with a data backup plan that involves OneDrive and an external hard-drive. Why? Because I know how to use these programs and tools, Zotero is new to me and using it should technically count for “using open source code”. I have been paralysed for so long by indecision brought on by a lot of things but at least in part due to the almost contradictory instructions for this task. “Note that simply using software to manipulate digital objects (i.e., using office productivity, image / video editing, or other consumer software in an ad hoc manner) is insufficient for this task. You must develop an approach that enhances or transforms your research - and be able to explain how it does so.” My research involves three steps. Look up a source, read the source, write the essay. I don’t use programs other than consumer software and have had no difficulty in doing so. Adding steps to this process slows down and complicates my research. So what half of the instruction should I obey? Should my product enhance my research or should it be non-consumer/open source? I have run this problem around and around in my head for weeks and been unable to come up with a solution until now. My new product is something I can do, using programs that I am familiar with and will enhance my research to a certain degree. I know I should have started sooner, I know I should have sort help. I know all the things I should have done but the fact is that I didn’t. So this is the best I can do with the ability I have, if it means I fail then I fail but I am done wasting time worrying about this course. 
+
+Draft User Story 
+
+User Story 
+
+As a modern historian my technological needs are extremely limited, consequently my design will be relatively straightforward and basic. 
+•	As a student I want a more efficient way of creating a bibliography
+•	I want an effect and reliable automated backup 
+•	I want a way to search through my collected sources for specific terms and phrases 
+•	That is pretty much it 
+
+
+Acceptance Criteria 
+
+To create a bibliography more efficiently I will
+•	Downloading Zotero and the Zoteo chrome extension
+•	Access sources through their online database search engine
+•	Using the functionality of the program to save directly from the source 
+•	Once downloaded using the temporary saved sources group to create a permanent library in Zotero
+•	Formatting within the library to achieve the desire output
+
+To ensure a safe and reliable backup system I will 
+•	Continue to use OneDrive as a cloud storage system for files. It comes free with Microsoft office, its easy to use and has never once lost my files. 
+•	For additional security I will also periodically save my word to an external hard-drive.
+
+To search for specific terms or phrases I will 
+•	Maybe use Zotero 
+•	Maybe use Voyant 
+•	Both of these programs have issues examining sources that have been accessed through the libraries proxy. For the record this makes my research harder, not easier. 
+
+Prerequisites 
+
+In order for my pipeline to be considered successful I must be able to 
+•	Access a source 
+•	Save that source’s information to Zotero 
+•	Us that information to create references in my work 
+•	Be able to access and change that information easily 
+•	Be able to save the work quickly and often to ensure no data loss 
+•	Optimally find a way to search out commonalities in the sources but this may prove beyond my abilities
+
+
+Themes 
+
+My main theme is reduction in repetition, most of the work I do cannot be automated but the most annoying and tedious part of any assignment is assembling the bibliography. That is pretty much the only area where I would benefit from automation more than be hindered by the hassle of learning new programs and languages. My research is interpretive, a collation and synthesis of a large amount of literature. There is very little to no data collection, no need for spreadsheets or databases. This program, Zotero or failing that good old Endnote is all I need. 
+
+
+
+Quality Assurance 
+
+It will be a relatively simply affair to test this relatively simply pipeline. I will select a series of 10 sources that I need for an assignment, I will search them using the library system, save them to Zotero, use the referencing in a fictional piece of writing then save the whole thing on the desktop and OneDrive and an external hard-drive. If I can accomplish this then it will meet my needs. 
+
+
+23/10/2019
+QA Test Run 1 
+
+Step 1: Turn on computer 
+Complete
+Step 2: Open web browser (preferable Google Chrome)
+Complete
+Step 3: Search Zotero in your search engine of choice 
+Complete
+Step 4: Go to the Zotero Website
+Complete
+Step 5: Download Zotero (making sure to get the correct version for your computer)
+Complete
+Step 6: Download the Zotero web extension (built for chrome which is why it is a preferable choice of browser)
+Complete
+Step 7: Install Zotero 
+Complete
+Step 8: Run Zotero 
+Complete
+Step 9: Search for desired source 
+Complete
+Step 10: Using the extension button near the top right of the screen (on the extensions bar) save your source to the Zotero library 
+Complete 
+Step 11: Create a new Library to store these sources in Zotero by using the new collection button near the top left of the program screen
+Error encountered, a lack of a Zotero account has hindered progress. Will rectify and add another step 
+Step 12: Open word processor of your choice (Microsoft Word is preferable) 
+Complete
+Step 13: Create a space for your bibliography 
+Complete 
+Step 14: Highlight your source then right click on them, then click make bibliography. (Select save to clipboard for easiest transfer)
+Complete 
+Step 15: Paste your now automatically formatted references in your bibliography. 
+Error encountered, Sources came out with long URLs attached detailing when they were accessed. Will examine and attempt to rectify this issue. 
+Step 16: In the Word document click Save As then select OneDrive (This is why word is preferable, not sure of other cloud-based storage systems)
+Complete
+Step 17: Place USB or external data-drive in USB slot
+Complete
+Step 18: Again click Save As in the Word document then select the USB or data-drive and save a copy there as well.  
+Complete
+
+Conclusion 
+
+Test was mostly successful a few issues were encountered, signing up to a Zotero account is a slight pain but it’s a fairly short process. The formatting of the sources is a bit harder; I’ll have to wrestle with the program a bit to see if I can fix it. 
+
+24/10/2019
+
+QA Test Run 2 
+
+After considerable investigation I determined that it is possible to edit the ways in which sources are linked to word processors from Zotero. But more importantly I discovered that there was a missing module that allows you to create footnotes with accompanying citations while work directly from Zotero. I will include that in this test run and adjust the steps accordingly. 
+
+Step 1: Turn on computer 
+Complete
+Step 2: Open web browser (preferable Google Chrome)
+Complete
+Step 3: Search Zotero in your search engine of choice 
+Complete
+Step 4: Go to the Zotero Website
+Complete
+Step 5: Download Zotero (making sure to get the correct version for your computer)
+Complete
+Step 6: Download the Zotero web extension (built for chrome which is why it is a preferable choice of browser)
+Complete
+Step 7: Install Zotero 
+Complete
+Step 8: Run Zotero 
+Complete
+Step 9: Go back to the Zotero website and sign up for an account (this will involve using an email address to verify you account but is very straightforward.)
+Complete
+Step 10: In Zotero go to the edit menu, click on preferences then click on Sync, input your account details (this will enable you to share data across devices) 
+Complete
+Step 11: While still in the preferences menu go to the cite tab and select the format you wish to cite in (I picked Chicago 17th Full-Note) and make your you uncheck the include URL box unless you desire full URLs with every citation. 
+Complete
+Step 12: Search for desired source 
+Complete
+Step 13: Using the extension button near the top right of the screen (on the extensions bar) save your source to the Zotero library 
+Complete 
+Step 14: Create a new collection to store these sources in Zotero by using the new collection button near the top left of the program screen
+Complete 
+Step 15: Open word processor of your choice (Microsoft Word is preferable) 
+Complete
+Step 16: Create a space for your bibliography 
+Complete 
+Step 17: Right click on your collection folder and click create Bibliography from collection 
+Complete 
+Step 18: In word select the new Zotero tab, then click add citation. This will bring up a search bar that will allow to search through and select the desired source from the library. Then it added a citation along with a corresponding footnote for Chicago    
+Complete 
+Step 19: In the Word document click Save As then select OneDrive (This is why word is preferable, not sure of other cloud-based storage systems)
+Complete
+Step 20: Place USB or external data-drive in USB slot
+Complete
+Step 21: Again, click Save As in the Word document then select the USB or data-drive and save a copy there as well.  
+Complete
+
+Conclusion
+This run worked a lot smoother than the previous run, I discovered additional functionality of the Zotero program that allow me to both automate and easy my work. Hopefully this will fulfil that requirement of the assignment. Hopefully this will not require too much more work to smooth out. 
